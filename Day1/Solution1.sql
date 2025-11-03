@@ -1,0 +1,1 @@
+select distinct service from services_weekly;
