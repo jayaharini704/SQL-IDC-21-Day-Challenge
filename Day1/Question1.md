@@ -9,5 +9,4 @@
 3. Display the first 10 records from the `services_weekly` table.
 
 ### Daily Challenge:
-
 **Question:** List all unique hospital services available in the hospital.
