@@ -1,0 +1,1 @@
+select patient_id,name,age,satisfaction from patients where service="Surgery" and satisfaction<70;
